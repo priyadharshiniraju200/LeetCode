@@ -8,7 +8,7 @@ class Solution {
                 slow++;
             }
             if(nums[fast]==nums[slow]){
-                dup=nums[fast];
+                dup=nums[slow];
             }
         }
         return dup;  
