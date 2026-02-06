@@ -24,7 +24,7 @@ class Solution {
     }
     public boolean checkList(List<Integer> trav){
         for(int i=1;i<trav.size();i++){
-            if(trav.get(i)<=trav.get(i-1)){
+            if(trav.get(i-1)>=trav.get(i)){
                 return false;
             }
         }
