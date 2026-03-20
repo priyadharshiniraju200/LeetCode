@@ -8,17 +8,20 @@ For Practice!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +39,8 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
