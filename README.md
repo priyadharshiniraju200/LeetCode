@@ -9,6 +9,7 @@ For Practice!
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0704-binary-search](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -73,4 +74,8 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
