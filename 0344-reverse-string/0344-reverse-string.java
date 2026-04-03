@@ -8,13 +8,13 @@ class Solution {
             left++;
             right--;
         }
-        System.out.print("[");
+        /*System.out.print("[");
         for(int i=0;i<s.length;i++){
             System.out.print("\""+s[i]+"\"");
             if(i!=s.length-1){
                 System.out.print(",");
             }
         }
-        System.out.println("]");
+        System.out.println("]");*/
     }
 }
