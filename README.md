@@ -27,6 +27,7 @@ For Practice!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
