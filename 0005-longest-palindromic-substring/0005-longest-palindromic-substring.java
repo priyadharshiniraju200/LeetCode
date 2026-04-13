@@ -1,32 +1,26 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if(s == null || s.length() < 1) return "";
-        int start = 0, end = 0;
-        
-        for(int i = 0; i < s.length(); i++){
-            int len1 = expandAroundCenter(s, i, i); // odd length
-            int len2 = expandAroundCenter(s, i, i+1); // even length
-            int len = Math.max(len1, len2);
-            if(len > end - start){
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+        String rev="";
+        for(int i=0;i<s.length();i++){
+            for(int j=i+1;j<=s.length();j++){
+                if(isPalindrome(s,i,j-1)){ 
+                    if(j-i>rev.length()){
+                        rev=s.substring(i,j);
+                    }
+                    
+                }
             }
         }
-        return s.substring(start, end + 1);
+        return rev;
     }
-    
-    private int expandAroundCenter(String s, int left, int right){
-        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
-            left--;
-            right++;
+    public boolean isPalindrome(String s,int left,int right){
+       while(left<right){
+        if(s.charAt(left)!=s.charAt(right)){
+            return false;
         }
-        return right - left - 1;
-    }
-
-    public static void main(String[] args){
-        Solution sol = new Solution();
-        String s = "babad";
-        System.out.println("Longest Palindrome: " + sol.longestPalindrome(s));
-        
+        left++;
+        right--;
+       }
+       return true;
     }
 }
