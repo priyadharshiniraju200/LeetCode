@@ -50,6 +50,7 @@ For Practice!
 | [0242-valid-anagram](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +134,16 @@ For Practice!
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
