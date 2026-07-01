@@ -7,6 +7,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -75,12 +76,14 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -98,6 +101,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
@@ -116,6 +120,7 @@ For Practice!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Queue
