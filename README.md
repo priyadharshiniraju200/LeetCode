@@ -15,6 +15,7 @@ For Practice!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
