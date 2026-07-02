@@ -84,6 +84,7 @@ For Practice!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -153,4 +154,16 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
