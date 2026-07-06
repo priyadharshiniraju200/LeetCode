@@ -89,6 +89,7 @@ For Practice!
 | [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Sorting
@@ -120,6 +121,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ For Practice!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
