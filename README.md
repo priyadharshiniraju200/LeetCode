@@ -29,6 +29,7 @@ For Practice!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -38,6 +39,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -48,6 +50,7 @@ For Practice!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
