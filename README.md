@@ -23,6 +23,7 @@ For Practice!
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -100,6 +101,7 @@ For Practice!
 | [0088-merge-sorted-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
