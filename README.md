@@ -33,6 +33,7 @@ For Practice!
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ For Practice!
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
