@@ -1,4 +1,3 @@
-
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int max=0;
@@ -7,7 +6,9 @@ class Solution {
             for(int j=0;j<accounts[i].length;j++){
                 sum+=accounts[i][j];
             }
-            max=Math.max(sum,max);
+            if(max<sum){
+                max=sum;
+            }
         }
         return max;
     }
