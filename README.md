@@ -196,6 +196,7 @@ For Practice!
 | [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,11 +209,13 @@ For Practice!
 | [0094-binary-tree-inorder-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
