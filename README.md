@@ -41,6 +41,7 @@ For Practice!
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -208,6 +209,7 @@ For Practice!
 | [0100-same-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,9 +224,14 @@ For Practice!
 | [0100-same-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
