@@ -44,6 +44,7 @@ For Practice!
 | [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -177,6 +178,7 @@ For Practice!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
