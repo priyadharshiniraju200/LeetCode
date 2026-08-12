@@ -17,6 +17,7 @@ For Practice!
 | [0066-plus-one](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0134-gas-station](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -234,4 +235,8 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
