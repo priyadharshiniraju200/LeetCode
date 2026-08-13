@@ -187,6 +187,7 @@ For Practice!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -197,6 +198,7 @@ For Practice!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
