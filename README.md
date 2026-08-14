@@ -7,6 +7,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -143,6 +144,7 @@ For Practice!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ For Practice!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
