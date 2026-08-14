@@ -8,6 +8,7 @@ For Practice!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -111,6 +112,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -263,6 +265,7 @@ For Practice!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 ## Trie
