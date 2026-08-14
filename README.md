@@ -55,6 +55,7 @@ For Practice!
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ For Practice!
 | [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
