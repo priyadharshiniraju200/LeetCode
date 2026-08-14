@@ -37,6 +37,7 @@ For Practice!
 | [1672-richest-customer-wealth](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
