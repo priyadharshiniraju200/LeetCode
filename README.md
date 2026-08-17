@@ -163,6 +163,7 @@ For Practice!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0139-word-break/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@ For Practice!
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ For Practice!
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +268,7 @@ For Practice!
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,8 +324,10 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
