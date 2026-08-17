@@ -161,6 +161,7 @@ For Practice!
 | [0042-trapping-rain-water](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -236,6 +237,7 @@ For Practice!
 | [0102-binary-tree-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
@@ -246,6 +248,7 @@ For Practice!
 | [0100-same-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -259,6 +262,7 @@ For Practice!
 | [0102-binary-tree-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -316,4 +320,8 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
