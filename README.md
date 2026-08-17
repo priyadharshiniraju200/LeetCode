@@ -285,4 +285,8 @@ For Practice!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
