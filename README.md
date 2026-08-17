@@ -30,6 +30,7 @@ For Practice!
 | [0238-product-of-array-except-self](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -163,6 +164,7 @@ For Practice!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ For Practice!
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,4 +333,12 @@ For Practice!
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
