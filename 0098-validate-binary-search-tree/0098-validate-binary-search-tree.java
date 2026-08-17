@@ -14,28 +14,22 @@
  * }
  */
 class Solution {
-    public void inorder(TreeNode root,List<Integer> trav){
+    public static void inorder(TreeNode root,List<Integer> bst){
         if(root==null){
             return;
         }
-        inorder(root.left,trav);
-        trav.add(root.val);
-        inorder(root.right,trav);
+        inorder(root.left,bst);
+        bst.add(root.val);
+        inorder(root.right,bst);
     }
-    public boolean checkList(List<Integer> trav){
-        for(int i=1;i<trav.size();i++){
-            if(trav.get(i-1)>=trav.get(i)){
+    public boolean isValidBST(TreeNode root) {
+        List<Integer> bst=new ArrayList<>();
+        inorder(root,bst);
+        for(int i=1;i<bst.size();i++){
+            if(bst.get(i-1)>=bst.get(i)){
                 return false;
             }
         }
         return true;
-    }
-
-    public boolean isValidBST(TreeNode root) {
-        List<Integer> trav=new ArrayList<>();
-        inorder(root,trav);
-        boolean result=checkList(trav);
-        return result;
-        
     }
 }
