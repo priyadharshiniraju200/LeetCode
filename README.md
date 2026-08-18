@@ -44,6 +44,7 @@ For Practice!
 | [1920-build-array-from-permutation](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
+| [3866-first-unique-even-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ For Practice!
 | [0560-subarray-sum-equals-k](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3866-first-unique-even-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ For Practice!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3866-first-unique-even-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
