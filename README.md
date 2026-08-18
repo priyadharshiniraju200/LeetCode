@@ -65,6 +65,7 @@ For Practice!
 | [0496-next-greater-element-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3866-first-unique-even-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
@@ -94,6 +95,7 @@ For Practice!
 | [0344-reverse-string](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2351-first-letter-to-appear-twice](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@ For Practice!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3866-first-unique-even-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -295,6 +298,7 @@ For Practice!
 | [0136-single-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
