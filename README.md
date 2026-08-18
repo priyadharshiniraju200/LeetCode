@@ -353,4 +353,8 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
