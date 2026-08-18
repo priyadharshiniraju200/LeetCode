@@ -26,6 +26,7 @@ For Practice!
 | [0139-word-break](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -108,6 +109,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@ For Practice!
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0200-number-of-islands](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
@@ -280,6 +283,7 @@ For Practice!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0200-number-of-islands](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Bit Manipulation
@@ -323,6 +327,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
