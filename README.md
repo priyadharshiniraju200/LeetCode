@@ -51,6 +51,7 @@ For Practice!
 | [0001-two-sum](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0133-clone-graph/) | Medium |
@@ -87,6 +88,7 @@ For Practice!
 | [0005-longest-palindromic-substring](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -186,6 +188,7 @@ For Practice!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Design
 | Problem Name | Difficulty |
