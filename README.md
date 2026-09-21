@@ -44,6 +44,7 @@ For Practice!
 | [1920-build-array-from-permutation](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/priyadharshiniraju200/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ For Practice!
 | [0412-fizz-buzz](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ For Practice!
 | [0139-word-break](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0322-coin-change](https://github.com/priyadharshiniraju200/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyadharshiniraju200/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/priyadharshiniraju200/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
